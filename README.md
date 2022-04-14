@@ -5,3 +5,4 @@ If you want  your own Ravencoin pool setup with KAWPOW algorithm, feel free to c
 - [x]  **Telegram:** go to https://t.me/goodthebest **or** add `@goodthebest`
 - [x] **BitcoinTalk forum:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
 - [x]  **Email:**  onlinebuybiz@gmail.com
+- [x]  **Skype:**  add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
